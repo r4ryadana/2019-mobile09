@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca49f4a2-5a4d-422f-90e1-2235d73d073f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/androidTest/java/id/ac/polinema/recyclerviewsangatsederhana/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/androidTest/java/id/ac/polinema/recyclerviewsangatsederhana/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/java/id/ac/polinema/recyclerviewsangatsederhana/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/java/id/ac/polinema/recyclerviewsangatsederhana/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/test/java/id/ac/polinema/recyclerviewsangatsederhana/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/app/src/test/java/id/ac/polinema/recyclerviewsangatsederhana/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerviewSangatSederhana/settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="183" />
+    <option name="y" value="-14" />
+    <option name="width" value="1138" />
+    <option name="height" value="668" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2019-mobile09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-mobile09" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RecyclerviewSangatSederhana" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca49f4a2-5a4d-422f-90e1-2235d73d073f" name="Default Changelist" comment="" />
+      <created>1572323552576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572323552576</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3296131" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+    </layout>
+  </component>
+</project>
